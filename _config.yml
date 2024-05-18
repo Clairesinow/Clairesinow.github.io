@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Claire Sinow # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Research Technician at Massachusetts General Hospital
   <br><br>
-  Second description 
+  Graduated from Scripps College with a Bachelor's in Molecular Biology 2021
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/claire-sinow-aaaa02235/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
